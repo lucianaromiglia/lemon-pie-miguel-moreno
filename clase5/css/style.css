@@ -1,0 +1,48 @@
+.center {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: gainsboro;
+   padding: 20px;
+}
+h1{
+    position: relative;
+    top: -21px;
+    letter-spacing: 30px;
+text-align: center;
+background-color: rgb(179, 174, 174);
+color: blue;
+}
+h2{
+    position: relative;
+    left: 200px;
+     letter-spacing: 5px; 
+     margin-right: 430px;
+   text-align: left;
+   background-color:rgb(179, 174, 174) ;
+    
+   font-size:large;
+   color: brown;
+}
+li{
+    position: relative;
+    left: 200px;
+}
+dt{
+    position: relative;
+    left: 200px; 
+    font-weight: bold;
+    font-style: italic;
+}
+dd{
+    position: relative;
+    left:240px; 
+    margin-top: -35px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: blue;
+}
