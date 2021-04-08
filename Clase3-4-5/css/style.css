@@ -1,0 +1,12 @@
+.baner {
+    background-image: url(../img/lemon-pie.png);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    color: white;
+}
+ 
+h2{
+    font-family: 'Playfair Display', serif;
+    
+}
